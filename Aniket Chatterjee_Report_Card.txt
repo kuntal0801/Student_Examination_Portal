@@ -1,0 +1,5 @@
+                        Subject Marks Grades Status
+0           Engineering Physics    92      A   PASS
+1         Engineering Chemistry    85      B   PASS
+2  Basic Electrical Engineering    81      B   PASS
+3         Engineering Mechanics    77      C   PASS
